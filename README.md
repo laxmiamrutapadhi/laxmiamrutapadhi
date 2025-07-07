@@ -31,8 +31,10 @@
 ## 📊 GitHub Contributions & Streak
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laxmiamrutapadhi
+&show_icons=true&count_private=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmiamrutapadhi
+&theme=tokyonight" />
 </p>
 
 ---
@@ -45,5 +47,6 @@
 
 ---
 
-⭐ From [LAXMI AMRUTA PADHI](https://github.com/YOUR_USERNAME)
+⭐ From [LAXMI AMRUTA PADHI](https://github.com/laxmiamrutapadhi
+)
 
