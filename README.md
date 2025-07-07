@@ -43,7 +43,7 @@
 
 #### Thanks for visiting :heart:
 
-![VisitorCount](https://profile-counter.glitch.me/a-padhy/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/laxmiamrutapadhi/count.svg)
 
 
 ⭐ From [LAXMI AMRUTA PADHI](https://github.com/laxmiamrutapadhi
