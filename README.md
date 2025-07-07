@@ -28,25 +28,23 @@
 
 ---
 
----
-
-## 📊 GitHub Contributions & Streak
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laxmiamrutapadhi&show_icons=true&count_private=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmiamrutapadhi&theme=tokyonight" />
 </p>
+<br />
 
-
+<p align = "center">
+  <a href="https://github.com/a-padhy/github-readme-streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=a-padhy&theme=midnight-purple&ring=DD8F09&fire=DD8F09&dates=20DD0A&currStreakNum=DDDDDD&sideNums=DDDDDD" />
+  </a>
+</p> 
+<!-- 
+<br /> -->
+ 
 ---
 
-##  Thanks for visiting ❤️
+#### Thanks for visiting :heart:
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/laxmiamrutapadhi/count.svg" />
-</p>
+![VisitorCount](https://profile-counter.glitch.me/a-padhy/count.svg)
 
----
 
 ⭐ From [LAXMI AMRUTA PADHI](https://github.com/laxmiamrutapadhi
 )
