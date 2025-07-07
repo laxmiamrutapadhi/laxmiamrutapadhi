@@ -40,7 +40,7 @@
 ##  Thanks for visiting ❤️
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
+  <img src="https://profile-counter.glitch.me/laxmiamrutapadhi/count.svg" />
 </p>
 
 ---
