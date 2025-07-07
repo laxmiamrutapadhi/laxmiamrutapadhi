@@ -28,14 +28,15 @@
 
 ---
 
+---
+
 ## 📊 GitHub Contributions & Streak
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laxmiamrutapadhi
-&show_icons=true&count_private=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmiamrutapadhi
-&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laxmiamrutapadhi&show_icons=true&count_private=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmiamrutapadhi&theme=tokyonight" />
 </p>
+
 
 ---
 
